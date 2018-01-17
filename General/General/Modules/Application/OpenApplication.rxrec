@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="78b8afb5-3cea-4c1f-93b4-5142d0afdd8a"
+mode="Desktop"
+rxversion="8.0">
+	<name>
+		OpenApplication
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenApplication"
+	namespace="General.Modules.Application">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		enabled="True"
+		incognito="False"
+		killexisting="False"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				http://testgames.be/connections/
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="3d9ad79c-6618-4bcf-a93b-d7aa2e440d91"
+	name="GeneralRepository"
+	relativepath="..\..\GeneralRepository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="GeneralRepository"
+		namespace="General">
+		</codegen>
+		<rootfolder
+		id="ed1c523b-ba79-4bb7-9d6f-baa76dcc9580"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenApplication.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

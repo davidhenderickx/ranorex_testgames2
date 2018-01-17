@@ -1,0 +1,7 @@
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\bin\Debug\Menu.rxtmg
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\bin\Debug\Menu.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\obj\x86\Debug\Menu.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\Menu\Menu\obj\x86\Debug\Menu.pdb

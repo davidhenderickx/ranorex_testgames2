@@ -1,0 +1,15 @@
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\TestGames_TestSuites.rxtmg
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\TestGames_TestSuites.rxtst
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\TestGames_TestSuites.exe.config
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\TestGames_TestSuites.exe
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\TestGames_TestSuites.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\General.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\Login.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\Menu.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\General.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\Login.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\bin\Debug\Menu.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\obj\x86\Debug\TestGames_TestSuites.csprojResolveAssemblyReference.cache
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\obj\x86\Debug\TestGames_TestSuites.exe
+C:\Users\dhenderickx\Development\Ranorex\TestGames\TestGames_TestSuites\TestGames_TestSuites\obj\x86\Debug\TestGames_TestSuites.pdb

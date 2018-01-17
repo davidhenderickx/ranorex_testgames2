@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ae28ceab-c1d5-45d7-b2ed-2cde1af37088"
+mode="Global"
+rxversion="8.0">
+	<name>
+		WaitForOneSecond
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="WaitForOneSecond"
+	namespace="General.Modules.Helper">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<explicitdelayitem
+		duration="1000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+	</recorditems>
+	<repository
+	id="3d9ad79c-6618-4bcf-a93b-d7aa2e440d91"
+	name="GeneralRepository"
+	relativepath="..\..\GeneralRepository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="GeneralRepository"
+		namespace="General">
+		</codegen>
+		<rootfolder
+		id="ed1c523b-ba79-4bb7-9d6f-baa76dcc9580"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		WaitForOneSecond.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

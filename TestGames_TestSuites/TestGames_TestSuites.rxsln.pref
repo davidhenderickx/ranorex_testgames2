@@ -1,0 +1,14 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{BBBE5CD7-6217-4743-B279-C2C13897C50E}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>Login, Version=1.0.6591.23720, Culture=neutral, PublicKeyToken=nullModule</string>
+      <string>Menu, Version=1.0.6591.23720, Culture=neutral, PublicKeyToken=nullModule</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution TestGames_TestSuites[TestGames_TestSuites[References[]]]]&#xD;&#xA;Solution TestGames_TestSuites\TestGames_TestSuites\TestGames_TestSuites.rxtst&#xD;&#xA;Solution TestGames_TestSuites\TestGames_TestSuites\References\Ranorex.Plugin.Uia" />
+  <StartupProject value="{BBBE5CD7-6217-4743-B279-C2C13897C50E}" />
+</Properties>

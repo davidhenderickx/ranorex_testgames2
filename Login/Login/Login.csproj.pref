@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Modules\SetLanguage.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Modules\SetLanguage.rxrec" />
+    <Element value="LoginRepository.rxrep" />
+    <Element value="Modules\LoginWith.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>

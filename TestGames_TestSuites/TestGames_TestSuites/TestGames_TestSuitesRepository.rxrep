@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="TestGames_TestSuitesRepository"
+id="17106ece-4fdf-407b-af8d-84d9bf07504c"
+rxversion="8.0">
+  <codegen
+  classname="TestGames_TestSuitesRepository"
+  namespace="TestGames_TestSuites"/>
+  <rootfolder
+  name="Root"
+  id="607b305c-4e0e-49bd-97d3-4373163bab23"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

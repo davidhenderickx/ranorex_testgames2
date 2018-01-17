@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Menu"
+      id="53322ede-5859-43b5-bc80-fe1c87b0b6be"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Menu"
+      id="53322ede-5859-43b5-bc80-fe1c87b0b6be"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

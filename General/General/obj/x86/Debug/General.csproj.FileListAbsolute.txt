@@ -1,0 +1,6 @@
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\bin\Debug\General.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\bin\Debug\General.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\obj\x86\Debug\General.csprojResolveAssemblyReference.cache
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\obj\x86\Debug\General.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGames\General\General\obj\x86\Debug\General.pdb
