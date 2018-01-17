@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="8b0f255b-ab95-44e0-8e3d-fe1f6220ef19"
+mode="Global"
+rxversion="8.0">
+	<name>
+		GetError
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="GetError"
+	namespace="Login.Modules">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<explicitdelayitem
+		duration="500ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+	</recorditems>
+	<repository
+	id="7a72dc69-dda7-4ecb-b8b1-c5bd3a02600a"
+	name="LoginRepository"
+	relativepath="..\LoginRepository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="LoginRepository"
+		namespace="Login">
+		</codegen>
+		<rootfolder
+		id="41404e4b-fb1b-4fa7-a9fd-b7ef1153dc36"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		GetError.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
