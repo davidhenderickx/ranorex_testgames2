@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="WelcomePageRepository"
+id="324a6b9f-6245-4b90-86dc-c68e0bf058fd"
+rxversion="8.0">
+  <codegen
+  classname="WelcomePageRepository"
+  namespace="WelcomePage"/>
+  <rootfolder
+  name="Root"
+  id="f5eb3a7f-e74d-461f-8b6b-7b1491ce3a3f"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
