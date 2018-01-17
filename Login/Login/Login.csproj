@@ -118,6 +118,18 @@
       <BoundTo>42f58572-3e02-4397-a040-20bcf3e4055d</BoundTo>
       <RepositoryCode>true</RepositoryCode>
     </Compile>
+    <Compile Include="Modules\GetError.cs">
+      <BoundTo>38c187a5-eab3-4f73-a0bf-763177706ff9</BoundTo>
+      <DependentUpon>GetError.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>f3bcb42b-cdc4-4615-a217-eaa2a4ed8f0d</id>
+    </Compile>
+    <Compile Include="Modules\GetError.UserCode.cs">
+      <BoundTo>38c187a5-eab3-4f73-a0bf-763177706ff9</BoundTo>
+      <DependentUpon>GetError.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>aba92a07-10ec-45d7-adf1-edee545da7c2</id>
+    </Compile>
     <Compile Include="Modules\LoginAdmin.cs">
       <DependentUpon>LoginAdmin.rxrec</DependentUpon>
       <id>3ddb3c46-89c9-44a4-8b19-b950c008c9c3</id>
@@ -156,6 +168,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="git.gitignore">
+      <id>dd0d85ae-e81c-4939-b6fe-e5ca40d7481c</id>
+    </None>
     <None Include="LoginRepository.rximg">
       <DependentUpon>LoginRepository.rxrep</DependentUpon>
       <id>69acbe35-990d-4b9b-8243-ec65ca3d9bb3</id>
@@ -166,6 +181,11 @@
       <id>42f58572-3e02-4397-a040-20bcf3e4055d</id>
       <repoid>7a72dc69-dda7-4ecb-b8b1-c5bd3a02600a</repoid>
       <reporootid>41404e4b-fb1b-4fa7-a9fd-b7ef1153dc36</reporootid>
+    </None>
+    <None Include="Modules\GetError.rxrec">
+      <BoundTo>42f58572-3e02-4397-a040-20bcf3e4055d</BoundTo>
+      <id>38c187a5-eab3-4f73-a0bf-763177706ff9</id>
+      <recordtableid>8b0f255b-ab95-44e0-8e3d-fe1f6220ef19</recordtableid>
     </None>
     <None Include="Modules\LoginAdmin.rxrec">
       <id>5d9efadd-2603-4b18-a45a-72ce6e9a6534</id>

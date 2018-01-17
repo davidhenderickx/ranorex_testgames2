@@ -5,3 +5,10 @@ C:\Users\dhenderickx\Development\Ranorex\TestGames\Login\Login\bin\Debug\Ranorex
 C:\Users\dhenderickx\Development\Ranorex\TestGames\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
 C:\Users\dhenderickx\Development\Ranorex\TestGames\Login\Login\obj\x86\Debug\Login.dll
 C:\Users\dhenderickx\Development\Ranorex\TestGames\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\bin\Debug\Login.rxtmg
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\bin\Debug\Login.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\bin\Debug\Login.pdb
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\obj\x86\Debug\Login.dll
+C:\Users\dhenderickx\Development\Ranorex\TestGamesGit\Login\Login\obj\x86\Debug\Login.pdb
